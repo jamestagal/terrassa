@@ -52,7 +52,7 @@ paginate = 5
 [params.contact] # Contact info
     email = "benjaminjameswaller@gmail.com"
     phone = "xxx xxx xxx"
-    skype = ""
+    skype = "jamestagal"
     address = "Canberra, Australia"
 
 [params.social]
