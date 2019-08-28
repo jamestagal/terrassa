@@ -9,7 +9,7 @@ paginate = 5
 
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "A professional website of Benjamin Waller, a teacher and education designer"
     favicon = "favicon.ico"
     logo = ""
 
