@@ -7,5 +7,5 @@ menu: main
 weight: 1
 ---
 
-# Education Technology and Teaching
+# Curriculum Vitae of Benjamin Waller
 ## Photo by Glenn Carstens-Peters on Unsplash
