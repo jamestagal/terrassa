@@ -7,5 +7,6 @@ menu: main
 weight: 1
 ---
 
-# Curriculum Vitae of Benjamin Waller
+# Curriculum Vitae
+# Benjamin Waller
 ## Photo by Glenn Carstens-Peters on Unsplash
