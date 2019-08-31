@@ -1,5 +1,5 @@
 ---
-title: "HOME"
+title: "Home"
 description: ""
 images: ["glenn-carstens-peters-unsplashCrop.png"]
 draft: false
