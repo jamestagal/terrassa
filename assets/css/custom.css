@@ -16,7 +16,7 @@
 
 /* SECTION */
 .section {
-	margin: 1.75rem 5%;
+	margin: 1.75rem 10%;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
