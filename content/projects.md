@@ -1,5 +1,5 @@
 ---
-title: "EDTECH PROJECTS"
+title: "EdTech Projects"
 description: "This page showcases my EDTech and design projects"
 images: []
 draft: false
