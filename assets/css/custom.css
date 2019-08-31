@@ -30,14 +30,34 @@
 /* MEDIA */
 @media only screen and (max-width: 1024px) {
 	.post__body {
-		margin: 0 5%;
+		margin: 0 10%;
+	}
+	.section {
+		margin: 2.75rem 10%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.section {
+		margin: 2.75rem 5%;
 	}
 	.section {
 		margin: 2.75rem 5%;
 	}
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 567px) {
+	.post__body {
+		margin: 0 5%;
+	}
+	.section {
+		margin: 2.75rem 5%;
+	}
+}
+@media only screen and (max-width: 340px) {
+	.post__body {
+		margin: 0 5%;
+	}
 	.section {
 		margin: 2.75rem 5%;
 	}
@@ -46,5 +66,5 @@
 /* POST */
 
 .post__body {
-	margin: 1.75rem 5% 0.75rem;
+	margin: 1.75rem 10% 0.75rem;
 }
