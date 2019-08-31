@@ -1,0 +1,28 @@
+/* HEADER - Modified column and logo text*/
+.header {
+	grid-template-columns: 35ch auto;
+}
+
+/* HERO */
+.hero {
+	align-content: flex-start;
+}
+
+.hero__caption {
+	align-items: flex-start;
+	flex-direction: column;
+	color: white
+}
+
+/* SECTION */
+.section {
+	margin: 1.75rem 15%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.section__title {
+    font-size: 2.5rem;
+    padding: 0 0;
+}
