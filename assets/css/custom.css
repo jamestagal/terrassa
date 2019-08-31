@@ -1,4 +1,11 @@
-/* HEADER - Modified column and logo text*/
+
+:root {
+    /* Colors */
+    --primary: #0574FC;
+    --primary-dark: #0548F2;
+    --primary-light: #0790E6;
+}
+  /* HEADER - Modified column and logo text*/
 .header {
 	grid-template-columns: 35ch auto;
 }
