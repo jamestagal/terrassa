@@ -1,5 +1,5 @@
 ---
-title: "PERSONAL PROJECTS"
+title: "Personal Projects"
 description: ""
 images: []
 draft: false
