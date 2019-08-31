@@ -1,5 +1,5 @@
 ---
-title: "EMPLOYMENT HISTORY"
+title: "Employment History"
 description: "This the employment history of Benjamin Waller in education."
 images: []
 draft: false
