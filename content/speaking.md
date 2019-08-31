@@ -1,5 +1,5 @@
 ---
-title: "SPEAKING EVENTS"
+title: "Speaking Events"
 description: ""
 images: []
 draft: false
