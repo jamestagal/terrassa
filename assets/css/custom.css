@@ -20,6 +20,14 @@
 	flex-direction: column;
 	color: white
 }
+.hero__caption > h2 {
+	font-size: var(--subtitle);
+	margin-top: 0.45rem;
+}
+.hero__caption > h3 {
+	font-size: var(--subheader);
+	margin-top: 0.45rem;
+}
 
 /* SECTION */
 .section {
