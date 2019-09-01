@@ -8,5 +8,5 @@ weight: 1
 ---
 
 # Curriculum Vitae
-# Benjamin Waller
-## Photo by Glenn Carstens-Peters on Unsplash
+## Benjamin Waller
+_Photo by Glenn Carstens-Peters on Unsplash_
